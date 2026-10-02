@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="./assets/github-header.png" width="100%" alt="Rohit Kumar - React Native Developer"/>
-
+  
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:250000,100:ff1a1a&height=180&section=header&text=ROHIT%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>

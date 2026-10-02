@@ -237,58 +237,150 @@ Generative AI
 
 # 📊 Learning Progress Dashboard
 
-> **Progress is represented as a roadmap-stage snapshot based on the current learning sequence, not as a measured skill score. Update the chart numbers whenever a stage is completed.**
+<div align="center">
 
-## 🥧 Overall AI/ML Roadmap
+### 🚀 From Mobile Engineering → Data → AI/ML
+
+| Track | Current Stage | Progress |
+|---|---|---:|
+| 📱 React Native | Production / Advanced | **90%** |
+| 🌐 Backend | Production / API | **70%** |
+| 🐍 Python | Foundation → Advanced Practice | **85%** |
+| 📊 Data Analytics | Getting Started | **20%** |
+| 🤖 Machine Learning | Upcoming | **0%** |
+| 🧠 Deep Learning | Upcoming | **0%** |
+| ✨ Generative AI | Upcoming | **0%** |
+
+</div>
+
+### 🥧 AI/ML Roadmap Snapshot
 
 ```mermaid
 pie showData
-    title AI/ML Roadmap — Current Stage Snapshot
-    "Foundation / In Progress" : 35
-    "Upcoming Stages" : 65
+    title AI/ML Roadmap
+    "Completed / Practiced" : 20
+    "In Progress" : 15
+    "Upcoming" : 65
 ```
 
-## 📊 Current Learning Areas
+### 📊 Current Learning Focus
 
 ```mermaid
 xychart-beta
-    title "Learning Progress Snapshot"
+    title "Current Learning Focus"
     x-axis ["Python", "NumPy", "Pandas", "SQL", "EDA", "ML", "DL", "GenAI"]
     y-axis "Progress %" 0 --> 100
-    bar [75, 35, 30, 25, 10, 0, 0, 0]
+    bar [85, 10, 5, 15, 0, 0, 0, 0]
 ```
 
-## 📈 Roadmap Progression
+### 📈 Engineering → AI/ML Progress
 
 ```mermaid
 xychart-beta
-    title "AI/ML Journey Progression"
-    x-axis ["Python", "NumPy", "Pandas", "SQL", "EDA", "ML", "DL", "GenAI"]
+    title "Journey Progress"
+    x-axis ["Mobile", "Backend", "Python", "Data", "ML", "DL", "GenAI"]
     y-axis "Progress %" 0 --> 100
-    line [75, 35, 30, 25, 10, 0, 0, 0]
+    line [90, 70, 85, 20, 0, 0, 0]
 ```
 
-## 🧱 Skill Areas
-
-```mermaid
-xychart-beta
-    title "Current Skill Focus"
-    x-axis ["Mobile", "Backend", "Data", "ML", "AI"]
-    y-axis "Focus %" 0 --> 100
-    bar [90, 70, 40, 15, 5]
-```
-
-### Current Focus
+### 🎯 What I'm Working On Now
 
 ```text
-📱 React Native / Mobile       ██████████████████░░  90%
-🌐 Backend / Node.js           ██████████████░░░░░░  70%
-📊 Data Analytics              ████████░░░░░░░░░░░░  40%
-🤖 Machine Learning            ███░░░░░░░░░░░░░░░░░  15%
-✨ Generative AI               █░░░░░░░░░░░░░░░░░░░  05%
+CURRENT
+  │
+  ├── 🐍 Python              █████████████████░░░  85%
+  │
+  ├── 📊 Data Analytics      ████░░░░░░░░░░░░░░░░  20%
+  │
+  └── 🗄️ SQL                 ███░░░░░░░░░░░░░░░░░  15%
+  │
+  ▼
+NEXT
+  │
+  ├── 🔎 EDA
+  ├── 🤖 Machine Learning
+  ├── 🧠 Deep Learning
+  └── ✨ Generative AI
 ```
 
-> **Note:** The percentages above are roadmap visualization values based on the current learning sequence and known focus areas. They are intentionally editable rather than claiming objectively measured proficiency.
+> **Progress note:** This dashboard reflects the learning roadmap and progress discussed in my development journey. Percentages are roadmap indicators, not formal proficiency scores. They can be updated as each milestone is completed.
+
+<details>
+<summary><b>🧭 Click to view my learning roadmap</b></summary>
+
+```text
+Python
+  ↓
+NumPy
+  ↓
+Pandas
+  ↓
+Data Visualization
+  ↓
+SQL
+  ↓
+EDA
+  ↓
+Statistics & Probability
+  ↓
+Machine Learning
+  ↓
+Deep Learning
+  ↓
+PyTorch
+  ↓
+NLP / Transformers
+  ↓
+Generative AI
+  ↓
+Embeddings
+  ↓
+RAG
+  ↓
+AI/ML Engineering
+```
+
+</details>
+
+---
+
+# 💼 What HR / Recruiters Can Expect
+
+<div align="center">
+
+| 🧩 Area | 💡 What I Build |
+|---|---|
+| 📱 Mobile | Production-ready Android & iOS applications |
+| ⚡ Performance | Optimized lists, rendering, animations & state |
+| 🔌 APIs | REST, authentication, caching & server state |
+| 🧩 Native | Kotlin, native modules & platform features |
+| 🛒 Product | E-Commerce & Fintech application flows |
+| 🤖 AI Direction | Data Analytics → ML → Deep Learning → GenAI |
+
+</div>
+
+### 🔥 Current Engineering Focus
+
+```text
+BUILD                         LEARN
+────────────────────────────────────────────────
+React Native        ───────► Python
+TypeScript           ───────► Data Analytics
+Expo / Native        ───────► SQL
+Performance          ───────► Machine Learning
+Architecture         ───────► Generative AI
+```
+
+<details>
+<summary><b>👀 Why NEXUS?</b></summary>
+
+**NEXUS** is my practice environment for implementing real-world React Native capabilities one by one.
+
+`Reanimated` • `Gestures` • `Camera` • `Location` • `PiP`
+`Native Android` • `TanStack Query` • `MMKV` • `Offline`
+`Performance` • `Deep Linking` • `Notifications`
+
+</details>
 
 ---
 

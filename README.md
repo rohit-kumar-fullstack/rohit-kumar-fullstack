@@ -1,247 +1,326 @@
+<div align="center">
+
+<!-- Animated Header -->
+
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="Deepak Amal Winstar J Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=700&height=42&lines=Hi+there!+I'm+Rohit+Kumar+%F0%9F%91%8B;React+Native+Developer+%7C+Mobile+Application+Engineer+%F0%9F%93%B1;Building+Modern+Android+%26+iOS+Applications+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+Node.js+%7C+Expo+%E2%9A%A1;Exploring+Data+Analytics%2C+Machine+Learning+%26+AI+%F0%9F%A4%96" width="100%" style="max-width: 700px;" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DeepakAmalWinstarJ">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=620&height=42&lines=Hi%20there!%20I'm%20Deepak%20Amal%20Winstar%20J%20%F0%9F%91%8B;Computer%20Science%20Engineer%20%26%20Developer%20%F0%9F%8E%93;Full-Stack%20Web%20%26%20Mobile%20App%20Builder%20%F0%9F%92%BB;AI%2C%20Machine%20Learning%20%26%20IoT%20Innovator%20%F0%9F%A4%96;Turning%20random%20ideas%20into%20production%20code%20%E2%9A%A1" width="100%" style="max-width: 620px;" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rohit-kumar-fullstack&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/deepakamalwinstar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="https://instagram.com/techwin.in" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Solve-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" />
-  </a>
-  &nbsp;
-  <a href="mailto:deepakamalwinstarj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://drive.google.com/file/d/1GY9lUeE9zneL9efZNbQOiWyH55UYrBXz/view?usp=sharing" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Drive-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=deepakamalwinstarj&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
+</div>
 
 ---
 
 <h2 align="center">🔴 About Me</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=600&height=28&lines=Driven+by+curiosity.+Building+for+impact.+Coding+the+future." width="100%" style="max-width: 600px;" alt="Typing Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=680&height=28&lines=Building+mobile+experiences+with+React+Native.;Learning%2C+building%2C+debugging+and+shipping.;Turning+ideas+into+production-ready+applications." width="100%" style="max-width: 680px;" alt="About Typing" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="340" style="max-width: 100%; border-radius: 12px;" alt="Developer coding animation" />
+  👨‍💻 I'm <b>Rohit Kumar</b>, a <b>React Native Developer</b> focused on building modern, scalable and production-oriented mobile applications.
+  <br /><br />
+  📱 My core focus is <b>React Native, TypeScript, Expo, React, Node.js</b> and mobile application architecture.
+  <br />
+  🚀 I enjoy working on <b>E-Commerce, Fintech, APIs, real-time features and advanced mobile capabilities</b>.
+  <br />
+  🧠 Currently expanding my skills toward <b>Data Analytics, Machine Learning and AI</b>.
 </p>
 
 <p align="center">
-  Hey! I'm <b>Deepak Amal Winstar J</b>, a passionate <b>Computer Science Engineering student & developer</b> based in India.<br />
-  I specialize in architecting scalable full-stack web platforms, integrating embedded IoT hardware, and deploying machine learning solutions to solve practical real-world problems.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-🟢_Building_%26_Shipping-111111?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/Role-React%20Native%20Developer-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Degree-B.E._Computer_Science-DC2626?style=flat-square" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-DC2626?style=flat-square&logo=android&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Full_Stack_%26_AI-111111?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0a0a0a?style=flat-square&logo=code&logoColor=EF4444" />
 </p>
 
-<p align="center">
-  💬 <b>Let's Discuss:</b> Java, C++, JavaScript, React, Spring Boot, System Architecture & Git Workflows.<br />
-  ⚡ <b>Philosophy:</b> <i>"I love turning random late-night thoughts into fully deployed production software!"</i>
-</p>
+---
+
+<h2 align="center">📱 React Native Expertise</h2>
 
 <table width="100%" border="0" align="center">
 <tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🔭 Flagship Project</h4>
-  <p><a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank"><b>OpenCore Monitor</b></a><br /><sub>Dairy IoT & Anomaly Detection</sub></p>
+
+<td width="50%" align="center">
+
+<h4>⚛️ Core Development</h4>
+
+<sub>
+React Native<br />
+TypeScript<br />
+JavaScript<br />
+Expo<br />
+React
+</sub>
+
 </td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🌱 Active Deep Dives</h4>
-  <p><b>DSA &amp; Spring Boot</b><br /><sub>React Ecosystem &amp; System Design</sub></p>
+
+<td width="50%" align="center">
+
+<h4>🧭 Navigation</h4>
+
+<sub>
+Stack Navigation<br />
+Bottom Tabs<br />
+Drawer<br />
+Nested Navigation<br />
+Deep Linking
+</sub>
+
 </td>
+
 </tr>
+
 <tr>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>📱 Tech Creator</h4>
-  <p><a href="https://www.instagram.com/techwin.in/" target="_blank"><b>@techwin.in</b></a><br /><sub>Coding Guides &amp; Insights</sub></p>
+
+<td width="50%" align="center">
+
+<h4>⚡ Performance</h4>
+
+<sub>
+FlashList<br />
+Memoization<br />
+Lazy Loading<br />
+Image Optimization<br />
+Render Optimization
+</sub>
+
 </td>
-<td width="50%" align="center" style="padding: 14px;">
-  <h4>🤝 Collaboration</h4>
-  <p><b>AI, Web &amp; IoT</b><br /><sub>Open to exciting new projects</sub></p>
+
+<td width="50%" align="center">
+
+<h4>🎬 Animation & Gestures</h4>
+
+<sub>
+Reanimated<br />
+Gesture Handler<br />
+Bottom Sheets<br />
+Lottie<br />
+Haptic Feedback
+</sub>
+
 </td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+<h4>📡 Data & State</h4>
+
+<sub>
+TanStack Query<br />
+REST APIs<br />
+GraphQL<br />
+MMKV<br />
+Offline Support
+</sub>
+
+</td>
+
+<td width="50%" align="center">
+
+<h4>🔧 Native Features</h4>
+
+<sub>
+Kotlin<br />
+Native Modules<br />
+Camera<br />
+Location<br />
+Picture-in-Picture
+</sub>
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🔴 Featured Project Spotlight</h2>
+<h2 align="center">🚀 Advanced Mobile Features</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Picture--in--Picture-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Deep%20Linking-0a0a0a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Push%20Notifications-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Camera-0a0a0a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Location-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Offline%20Support-0a0a0a?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Background%20Tasks-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Native%20Modules-0a0a0a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kotlin%20Integration-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-0a0a0a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Biometrics-DC2626?style=flat-square" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <b>Mobile & Frontend</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,expo,androidstudio,kotlin&theme=dark" width="100%" style="max-width: 480px;" alt="Mobile Stack" />
+</p>
+
+<p align="center">
+  <b>Backend & Database</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,graphql,firebase&theme=dark" width="100%" style="max-width: 480px;" alt="Backend Stack" />
+</p>
+
+<p align="center">
+  <b>Tools & Development</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,figma,linux&theme=dark" width="100%" style="max-width: 440px;" alt="Tools" />
+</p>
+
+<p align="center">
+  <b>Data & AI</b>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,opencv&theme=dark" width="100%" style="max-width: 300px;" alt="Data AI Stack" />
+</p>
+
+---
+
+<h2 align="center">🏗️ What I Build</h2>
 
 <table width="100%" border="0" align="center">
 <tr>
-<td align="center" style="padding: 22px;">
-  <h3>🔬 OpenCore Mastitis Monitor</h3>
-  <p><i>A smart IoT & web-enabled dairy health monitoring system designed for early anomaly detection and real-time livestock welfare tracking.</i></p>
-  <br />
-  <p>
-    <a href="https://opencore-mastitis-monitor.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-🚀%20Visit%20Platform-DC2626?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0a0a0a" alt="Live Demo" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/DeepakAmalWinstarJ" target="_blank">
-      <img src="https://img.shields.io/badge/Source%20Code-💻%20View%20Projects-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Source Code" />
-    </a>
-  </p>
+
+<td width="33%" align="center">
+<h4>📱 Mobile Apps</h4>
+<sub>
+E-Commerce<br />
+Fintech<br />
+Business Apps<br />
+Real-time Apps
+</sub>
 </td>
+
+<td width="33%" align="center">
+<h4>🌐 Backend</h4>
+<sub>
+REST APIs<br />
+Authentication<br />
+Databases<br />
+Real-time Services
+</sub>
+</td>
+
+<td width="33%" align="center">
+<h4>🧠 AI / Data</h4>
+<sub>
+Python<br />
+SQL<br />
+Data Analytics<br />
+Machine Learning
+</sub>
+</td>
+
 </tr>
 </table>
 
 ---
 
-<h2 align="center">🧩 LeetCode Problem Solving</h2>
-
-<p align="center"><i>Live real-time tracker of coding challenges & algorithmic problem-solving milestones.</i></p>
+<h2 align="center">🔥 Currently Building & Learning</h2>
 
 <p align="center">
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/deepakamalwinstarj?theme=dark&font=Karma&border=0&radius=12" width="100%" style="max-width: 480px;" alt="LeetCode Live Stats Card" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=900&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Building+NEXUS+with+advanced+React+Native+features;Practicing+Native+Android+%26+Kotlin+integration;Learning+SQL+%7C+Pandas+%7C+NumPy+%7C+Data+Analytics;Moving+toward+Machine+Learning+%26+Generative+AI" width="100%" style="max-width: 650px;" alt="Current Learning" />
 </p>
 
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=0a0a0a" alt="LeetCode Profile" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohit-kumar-fullstack&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8&count_private=true&include_all_commits=true" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/deepakamalwinstarj/" target="_blank">
-    <img src="https://img.shields.io/badge/Problems_Solved-Live_Tracker-DC2626?style=for-the-badge&logo=target&logoColor=white&labelColor=0a0a0a" alt="Problems Solved" />
-  </a>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohit-kumar-fullstack&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8&langs_count=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Skills</h2>
-
-<p align="center"><b>Core Programming Languages</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,html,css&theme=dark" width="100%" style="max-width: 420px;" alt="Languages" />
-  </a>
-</p>
-
-<p align="center"><b>Frontend & Mobile Development</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,flutter,androidstudio,tailwind,bootstrap&theme=dark" width="100%" style="max-width: 380px;" alt="Frontend and Mobile" />
-  </a>
-</p>
-
-<p align="center"><b>Backend, Cloud & Databases</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,firebase,aws&theme=dark" width="100%" style="max-width: 420px;" alt="Backend and Databases" />
-  </a>
-</p>
-
-<p align="center"><b>AI, Data Science, Hardware & DevOps</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=opencv,arduino,git,github,postman,linux,figma&theme=dark" width="100%" style="max-width: 420px;" alt="Tools and AI" />
-  </a>
-</p>
+<h2 align="center">🔥 Contribution Streak</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-Learn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Seaborn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=EF4444" alt="Selenium" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kumar-fullstack&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 500px;" alt="GitHub Streak" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Analytics & Activity</h2>
+<h2 align="center">📈 Contribution Activity</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=deepakamalwinstarj&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=deepakamalwinstarj&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepakamalwinstarj&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 480px;" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="assets/quote.svg" width="100%" style="max-width: 720px;" alt="Code and Art Quote" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kumar-fullstack&bg_color=0a0a0a&color=ef4444&line=dc2626&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </p>
 
 ---
 
-<h2 align="center">⚡ Contribution Journey</h2>
+<h2 align="center">🐍 Contribution Journey</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/rohit-kumar-fullstack/rohit-kumar-fullstack/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
 </p>
 
 ---
 
-<h2 align="center">📬 Let's Connect &amp; Collaborate</h2>
-
-<p align="center"><i>Whether you want to discuss system architecture, explore open-source collaboration, or just say hello — my inbox is always open!</i></p>
-
-<table border="0" align="center">
-<tr>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.linkedin.com/in/deepakamalwinstar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
-  </a>
-  <br />
-  <sub><b>Professional Network</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="https://www.instagram.com/techwin.in/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="60" height="60" alt="Instagram" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Instagram-@techwin.in-DC2626?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0a" alt="Instagram" />
-  </a>
-  <br />
-  <sub><b>Articles &amp; Tech Guides</b></sub>
-</td>
-<td align="center" width="220" style="padding: 16px;">
-  <a href="mailto:deepakamalwinstarj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Gmail" />
-    <br /><br />
-    <img src="https://img.shields.io/badge/Email-Contact_Me-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-  </a>
-  <br />
-  <sub><b>Direct Collaboration</b></sub>
-</td>
-</tr>
-</table>
+<h2 align="center">💻 Developer Philosophy</h2>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Write+clean+code.;Build+real+products.;Understand+the+problem.;Keep+learning.;Ship+better+software." width="100%" style="max-width: 700px;" alt="Developer Philosophy" />
 </p>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/rohit-kumar-52b50024b/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+</a>
+
+ 
+
+<a href="https://rohitdashboard.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+</a>
+
+ 
+
+<a href="https://www.hackerrank.com/profile/rohitmobiledev71" target="_blank">
+<img src="https://img.shields.io/badge/HackerRank-Profile-DC2626?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
+</a>
+
+ 
+
+<a href="mailto:rohitmobiledev7159@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+
+</div>

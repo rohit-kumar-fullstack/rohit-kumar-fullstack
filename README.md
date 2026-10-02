@@ -1,326 +1,540 @@
 <div align="center">
 
-<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:250000,100:ff1a1a&height=180&section=header&text=ROHIT%20KUMAR&fontSize=48&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=1000&color=EF4444&center=true&vCenter=true&multiline=false&width=700&height=42&lines=Hi+there!+I'm+Rohit+Kumar+%F0%9F%91%8B;React+Native+Developer+%7C+Mobile+Application+Engineer+%F0%9F%93%B1;Building+Modern+Android+%26+iOS+Applications+%F0%9F%9A%80;React+Native+%7C+TypeScript+%7C+Node.js+%7C+Expo+%E2%9A%A1;Exploring+Data+Analytics%2C+Machine+Learning+%26+AI+%F0%9F%A4%96" width="100%" style="max-width: 700px;" alt="Typing SVG" />
-</p>
+# 🔥 Hi 👋, I'm Rohit Kumar
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rohit-kumar-fullstack&label=PROFILE%20VIEWS&color=dc2626&style=for-the-badge" alt="Profile Views" />
-</p>
+### 📱 React Native Developer • Mobile Application Engineer • AI/ML Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF3030&center=true&vCenter=true&width=750&lines=Building+Production-Ready+Mobile+Applications;React+Native+%7C+TypeScript+%7C+Expo;Performance+%7C+Architecture+%7C+Native+Integration;Exploring+Data+Analytics+%7C+Machine+Learning+%7C+AI;Build+%E2%86%92+Ship+%E2%86%92+Learn+%E2%86%92+Improve"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=rohit-kumar-fullstack&label=PROFILE+VIEWS&color=ff1a1a&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2 align="center">🔴 About Me</h2>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=680&height=28&lines=Building+mobile+experiences+with+React+Native.;Learning%2C+building%2C+debugging+and+shipping.;Turning+ideas+into+production-ready+applications." width="100%" style="max-width: 680px;" alt="About Typing" />
-</p>
+## 🚀 REACT NATIVE • MOBILE • FULL STACK • AI
 
-<p align="center">
-  👨‍💻 I'm <b>Rohit Kumar</b>, a <b>React Native Developer</b> focused on building modern, scalable and production-oriented mobile applications.
-  <br /><br />
-  📱 My core focus is <b>React Native, TypeScript, Expo, React, Node.js</b> and mobile application architecture.
-  <br />
-  🚀 I enjoy working on <b>E-Commerce, Fintech, APIs, real-time features and advanced mobile capabilities</b>.
-  <br />
-  🧠 Currently expanding my skills toward <b>Data Analytics, Machine Learning and AI</b>.
-</p>
+### Building modern, scalable and production-ready applications.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-React%20Native%20Developer-0a0a0a?style=flat-square&logo=react&logoColor=61DAFB" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-DC2626?style=flat-square&logo=android&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0a0a0a?style=flat-square&logo=code&logoColor=EF4444" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">📱 React Native Expertise</h2>
+# 👨‍💻 About Me
 
-<table width="100%" border="0" align="center">
-<tr>
+I'm a **React Native Developer** with around **3 years of experience** building mobile and full-stack applications.
 
-<td width="50%" align="center">
+My primary expertise is developing **cross-platform mobile applications for Android and iOS**, with a strong focus on performance, reusable architecture, API integration and modern user experiences.
 
-<h4>⚛️ Core Development</h4>
+### 🔥 Core Expertise
 
-<sub>
-React Native<br />
-TypeScript<br />
-JavaScript<br />
-Expo<br />
-React
-</sub>
+| Area          | Expertise                            |
+| ------------- | ------------------------------------ |
+| 📱 Mobile     | React Native, Expo, Android, iOS     |
+| ⚛️ Frontend   | React, TypeScript, JavaScript        |
+| 🧭 Navigation | Stack, Tabs, Drawer, Deep Linking    |
+| 🌐 APIs       | REST API, GraphQL, Axios             |
+| 💾 Data       | TanStack Query, MMKV, SQLite         |
+| ⚡ Performance | FlashList, Memoization, Lazy Loading |
+| 🎬 Animation  | Reanimated, Gesture Handler, Lottie  |
+| 🔐 Security   | Authentication, Secure Storage       |
+| 📍 Native     | Camera, Location, Notifications      |
+| 🛒 Domains    | E-Commerce, Fintech                  |
+| 🤖 AI Journey | Data Analytics → ML → DL → GenAI     |
 
-</td>
+---
 
-<td width="50%" align="center">
+# 📱 React Native Expertise
 
-<h4>🧭 Navigation</h4>
+```text
+                         ┌───────────────────────┐
+                         │    REACT NATIVE       │
+                         └───────────┬───────────┘
+                                     │
+          ┌──────────────────────────┼──────────────────────────┐
+          │                          │                          │
+          ▼                          ▼                          ▼
+   ┌──────────────┐          ┌──────────────┐          ┌──────────────┐
+   │   UI / UX    │          │ NAVIGATION   │          │ PERFORMANCE  │
+   ├──────────────┤          ├──────────────┤          ├──────────────┤
+   │ Responsive   │          │ Stack        │          │ FlashList    │
+   │ Components   │          │ Tabs         │          │ Memoization  │
+   │ Design System│          │ Drawer       │          │ Lazy Loading │
+   │ Dark Theme   │          │ Deep Linking │          │ Optimization │
+   │ Animations   │          │ Universal    │          │ Native       │
+   │ Accessibility│          │ App Links    │          │ Modules      │
+   └──────────────┘          └──────────────┘          └──────────────┘
 
-<sub>
-Stack Navigation<br />
-Bottom Tabs<br />
-Drawer<br />
-Nested Navigation<br />
+          │                          │                          │
+          └──────────────────────────┼──────────────────────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │   PRODUCTION APPS    │
+                         └───────────────────────┘
+```
+
+### 🎬 Animation & Interaction
+
+```text
+Reanimated
+    │
+    ├── Shared Values
+    ├── Layout Animations
+    ├── Gesture Animations
+    ├── Scroll Animations
+    └── Interactive UI
+
+Gesture Handler
+    │
+    ├── Pan
+    ├── Swipe
+    ├── Drag
+    └── Gesture-driven UI
+```
+
+### 📡 Data & State
+
+```text
+TanStack Query
+      │
+      ├── API Caching
+      ├── Pagination
+      ├── Infinite Queries
+      ├── Offline Support
+      └── Server State
+
+MMKV
+      │
+      ├── Token Storage
+      ├── Cart Persistence
+      ├── Search State
+      └── Local Preferences
+```
+
+---
+
+# 🏗️ Mobile Architecture
+
+I enjoy building applications using **production-oriented architecture** rather than simply creating screens.
+
+```text
+                         📱 MOBILE APPLICATION
+                                  │
+                ┌─────────────────┴─────────────────┐
+                │                                   │
+                ▼                                   ▼
+        ┌───────────────┐                   ┌───────────────┐
+        │ PRESENTATION  │                   │ BUSINESS LOGIC│
+        └───────┬───────┘                   └───────┬───────┘
+                │                                   │
+        ┌───────┴───────┐                   ┌───────┴───────┐
+        │               │                   │               │
+        ▼               ▼                   ▼               ▼
+     Screens       Components            Services         Hooks
+        │               │                   │               │
+        └───────────────┴───────────────────┴───────────────┘
+                                │
+                                ▼
+                       ┌──────────────────┐
+                       │   DATA / API     │
+                       └────────┬─────────┘
+                                │
+                   ┌────────────┼────────────┐
+                   ▼            ▼            ▼
+                 REST        GraphQL       Cache
+                   │            │            │
+                   └────────────┼────────────┘
+                                ▼
+                     Native / Backend Layer
+```
+
+---
+
+# 🧰 React Native Tech Stack
+
+### ⚛️ Frontend
+
+![React Native](https://img.shields.io/badge/React_Native-000000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge\&logo=expo\&logoColor=FFFFFF)
+
+### 🧭 Navigation & UX
+
+![React Navigation](https://img.shields.io/badge/React_Navigation-000000?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Expo Router](https://img.shields.io/badge/Expo_Router-000000?style=for-the-badge\&logo=expo\&logoColor=FFFFFF)
+
+```text
+Stack
+Tabs
+Drawer
+Nested Navigation
 Deep Linking
-</sub>
+Universal Links
+Android App Links
+Responsive UI
+Dark Mode
+Design Systems
+Accessibility
+```
 
-</td>
+### 🎨 Animation & Interaction
 
-</tr>
+![Reanimated](https://img.shields.io/badge/Reanimated-000000?style=for-the-badge\&logo=react\&logoColor=FF3030)
+![Lottie](https://img.shields.io/badge/Lottie-000000?style=for-the-badge\&logo=lottiefiles\&logoColor=00DDB3)
 
-<tr>
+```text
+Reanimated
+Gesture Handler
+Bottom Sheet
+Lottie
+Haptics
+Interactive Animations
+```
 
-<td width="50%" align="center">
+### 🌐 Networking & Data
 
-<h4>⚡ Performance</h4>
-
-<sub>
-FlashList<br />
-Memoization<br />
-Lazy Loading<br />
-Image Optimization<br />
-Render Optimization
-</sub>
-
-</td>
-
-<td width="50%" align="center">
-
-<h4>🎬 Animation & Gestures</h4>
-
-<sub>
-Reanimated<br />
-Gesture Handler<br />
-Bottom Sheets<br />
-Lottie<br />
-Haptic Feedback
-</sub>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-<h4>📡 Data & State</h4>
-
-<sub>
-TanStack Query<br />
-REST APIs<br />
-GraphQL<br />
-MMKV<br />
+```text
+REST API
+Axios
+TanStack Query
+GraphQL
+Caching
+Pagination
+Infinite Queries
 Offline Support
-</sub>
+```
 
-</td>
+### 💾 Storage
 
-<td width="50%" align="center">
+```text
+MMKV
+AsyncStorage
+SQLite
+Secure Storage
+```
 
-<h4>🔧 Native Features</h4>
+### 🔥 Backend
 
-<sub>
-Kotlin<br />
-Native Modules<br />
-Camera<br />
-Location<br />
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge\&logo=node.js\&logoColor=68A063)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge\&logo=redis\&logoColor=DC382D)
+
+---
+
+# 🚀 Advanced React Native Features
+
+I'm actively practicing modern features that are commonly useful in production mobile applications.
+
+```text
+                    ┌──────────────────────────┐
+                    │     ADVANCED RN          │
+                    └────────────┬─────────────┘
+                                 │
+       ┌─────────────────────────┼─────────────────────────┐
+       │                         │                         │
+       ▼                         ▼                         ▼
+
+  📱 DEVICE                 🌐 CONNECTIVITY           🎬 MEDIA
+  ─────────                 ──────────────            ─────────
+  Picture-in-Picture       Deep Linking              Camera
+  Background Tasks         Universal Links            Video Recording
+  Push Notifications       Android App Links         File Upload
+  Location Tracking        WebSockets                 PDF Generation
+  Biometrics               Real-time Updates          Downloads
+  Secure Storage           Offline Support            Haptics
+
+       │                         │                         │
+       └─────────────────────────┼─────────────────────────┘
+                                 │
+                                 ▼
+
+                     ⚙️ NATIVE INTEGRATION
+                     ─────────────────────
+                     Kotlin
+                     Native Modules
+                     Background Location
+                     Gesture-driven UI
+                     Advanced Animations
+                     Performance Optimization
+```
+
+---
+
+# 🛒 Domain Experience
+
+## 🛍️ E-Commerce
+
+```text
+Product Catalog
+      ↓
+Product Details
+      ↓
+Search & Filtering
+      ↓
+Cart Management
+      ↓
+Wishlist
+      ↓
+Checkout
+      ↓
+Payment Integration
+      ↓
+Orders
+      ↓
+Delivery Tracking
+```
+
+## 💳 Fintech
+
+```text
+Authentication
+      ↓
+Secure Data Handling
+      ↓
+Transaction Flows
+      ↓
+API Integration
+      ↓
+Account Dashboards
+      ↓
+Real-time Updates
+      ↓
+Secure Storage
+```
+
+---
+
+# 🧪 Projects I'm Building
+
+## 📱 NEXUS
+
+### Advanced React Native Practice Application
+
+A production-style application where I'm experimenting with modern React Native capabilities.
+
+```text
+┌─────────────────────────────────────────────┐
+│                    NEXUS                    │
+├─────────────────────────────────────────────┤
+│                                             │
+│  React Native      Expo        TypeScript   │
+│                                             │
+│  Reanimated        Native      PiP          │
+│                                             │
+│  Camera            Location    Offline      │
+│                                             │
+│  TanStack Query    MMKV        Architecture │
+│                                             │
+└─────────────────────────────────────────────┘
+```
+
+### Focus Areas
+
+![React Native](https://img.shields.io/badge/React_Native-000000?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square\&logo=expo\&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square\&logo=typescript\&logoColor=3178C6)
+![Reanimated](https://img.shields.io/badge/Reanimated-000000?style=flat-square\&logo=react\&logoColor=FF3030)
+
+```text
+Native Android
 Picture-in-Picture
-</sub>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">🚀 Advanced Mobile Features</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Picture--in--Picture-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Deep%20Linking-0a0a0a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Push%20Notifications-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Camera-0a0a0a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Offline%20Support-0a0a0a?style=flat-square" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Background%20Tasks-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Native%20Modules-0a0a0a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kotlin%20Integration-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets-0a0a0a?style=flat-square" />
-  <img src="https://img.shields.io/badge/Biometrics-DC2626?style=flat-square" />
-</p>
+Camera
+Location
+TanStack Query
+MMKV
+Offline Support
+```
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+# 📊 Data Analytics Portfolio
 
-<p align="center">
-  <b>Mobile & Frontend</b>
-</p>
+Moving beyond application development into data-driven engineering.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,typescript,javascript,expo,androidstudio,kotlin&theme=dark" width="100%" style="max-width: 480px;" alt="Mobile Stack" />
-</p>
+```text
+Python
+  │
+  ├── SQL
+  ├── NumPy
+  ├── Pandas
+  ├── Data Visualization
+  ├── Statistics
+  └── EDA
+```
 
-<p align="center">
-  <b>Backend & Database</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,graphql,firebase&theme=dark" width="100%" style="max-width: 480px;" alt="Backend Stack" />
-</p>
-
-<p align="center">
-  <b>Tools & Development</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,figma,linux&theme=dark" width="100%" style="max-width: 440px;" alt="Tools" />
-</p>
-
-<p align="center">
-  <b>Data & AI</b>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,opencv&theme=dark" width="100%" style="max-width: 300px;" alt="Data AI Stack" />
-</p>
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge\&logo=python\&logoColor=3776AB)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge\&logo=numpy\&logoColor=013243)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge\&logo=pandas\&logoColor=150458)
+![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge\&logo=mysql\&logoColor=4479A1)
 
 ---
 
-<h2 align="center">🏗️ What I Build</h2>
+# 🧠 My AI/ML Journey
 
-<table width="100%" border="0" align="center">
-<tr>
-
-<td width="33%" align="center">
-<h4>📱 Mobile Apps</h4>
-<sub>
-E-Commerce<br />
-Fintech<br />
-Business Apps<br />
-Real-time Apps
-</sub>
-</td>
-
-<td width="33%" align="center">
-<h4>🌐 Backend</h4>
-<sub>
-REST APIs<br />
-Authentication<br />
-Databases<br />
-Real-time Services
-</sub>
-</td>
-
-<td width="33%" align="center">
-<h4>🧠 AI / Data</h4>
-<sub>
-Python<br />
-SQL<br />
-Data Analytics<br />
-Machine Learning
-</sub>
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">🔥 Currently Building & Learning</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2500&pause=900&color=EF4444&center=true&vCenter=true&multiline=false&width=650&height=28&lines=Building+NEXUS+with+advanced+React+Native+features;Practicing+Native+Android+%26+Kotlin+integration;Learning+SQL+%7C+Pandas+%7C+NumPy+%7C+Data+Analytics;Moving+toward+Machine+Learning+%26+Generative+AI" width="100%" style="max-width: 650px;" alt="Current Learning" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=rohit-kumar-fullstack&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444&border_radius=8&count_private=true&include_all_commits=true" width="100%" style="max-width: 440px;" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rohit-kumar-fullstack&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444&border_radius=8&langs_count=8" width="100%" style="max-width: 350px;" alt="Top Languages" />
-</p>
+```text
+┌──────────────────────────────┐
+│    React Native Developer    │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│    Software Engineering      │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│           Python             │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       Data Analytics         │
+│                              │
+│ SQL • NumPy • Pandas         │
+│ Visualization • EDA         │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│     Machine Learning         │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       Deep Learning          │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       Generative AI          │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│        AI/ML Engineer        │
+└──────────────────────────────┘
+```
 
 ---
 
-<h2 align="center">🔥 Contribution Streak</h2>
+# 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit-kumar-fullstack&theme=blood&hide_border=false&border=ef4444&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ef4444&sideLabels=ef4444&dates=999999" width="100%" style="max-width: 500px;" alt="GitHub Streak" />
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rohit-kumar-fullstack&show_icons=true&theme=dark&hide_border=true&bg_color=050505&title_color=ff3030&icon_color=ff3030&text_color=ffffff" height="180"/>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit-kumar-fullstack&layout=compact&theme=dark&hide_border=true&bg_color=050505&title_color=ff3030&text_color=ffffff" height="180"/>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kumar-fullstack&bg_color=0a0a0a&color=ef4444&line=dc2626&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">🐍 Contribution Journey</h2>
+# 🔥 Contribution Streak
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rohit-kumar-fullstack/rohit-kumar-fullstack/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-</p>
+<div align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=rohit-kumar-fullstack&theme=dark&hide_border=true&background=050505&ring=ff3030&fire=ff3030&currStreakLabel=ff3030"/>
 
-<h2 align="center">💻 Developer Philosophy</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3200&pause=1000&color=F87171&center=true&vCenter=true&multiline=false&width=700&height=30&lines=Write+clean+code.;Build+real+products.;Understand+the+problem.;Keep+learning.;Ship+better+software." width="100%" style="max-width: 700px;" alt="Developer Philosophy" />
-</p>
+</div>
 
 ---
 
-<h2 align="center">🌐 Connect With Me</h2>
+# 📈 Contribution Activity
 
-<p align="center">
+<div align="center">
 
-<a href="https://www.linkedin.com/in/rohit-kumar-52b50024b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rohit-kumar-fullstack&bg_color=050505&color=ffffff&line=ff3030&point=ff3030&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rohit-kumar-fullstack&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
+
+</div>
+
+---
+
+# 💻 Developer Mindset
+
+```typescript
+const rohit = {
+
+    primaryRole: "React Native Developer",
+
+    experience: [
+        "Mobile Application Development",
+        "E-Commerce",
+        "Fintech",
+        "Full-Stack Development"
+    ],
+
+    mobileStack: [
+        "React Native",
+        "TypeScript",
+        "Expo",
+        "React",
+        "Kotlin"
+    ],
+
+    backendStack: [
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "MySQL",
+        "Redis"
+    ],
+
+    currentlyLearning: [
+        "Data Analytics",
+        "Machine Learning",
+        "Artificial Intelligence"
+    ],
+
+    philosophy:
+        "Build scalable products, understand the data, and keep learning."
+};
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/rohit-kumar-fullstack">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
- 
-
-<a href="https://rohitdashboard.netlify.app/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" />
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
- 
-
-<a href="https://www.hackerrank.com/profile/rohitmobiledev71" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Profile-DC2626?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0a0a0a" alt="HackerRank" />
-</a>
-
- 
-
-<a href="mailto:rohitmobiledev7159@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" />
-</a>
-
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%" />
+### ⚡ BUILD → SHIP → LEARN → IMPROVE
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff1a1a,50:250000,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
